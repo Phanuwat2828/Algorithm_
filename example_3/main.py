@@ -48,5 +48,5 @@ if __name__ == "__main__":
     ]
 
     result = greedy(end, node, start)
-    
+    print(result[5])
 
